@@ -1,5 +1,5 @@
 # HelloWorld
-This is a hello world program to print the below display the below details.
+This is a hello world program to display the below details.
 
 • Applications Version.
 • Last Commit SHA.
